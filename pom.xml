@@ -44,7 +44,7 @@
 			<groupId>org.mule.connectors</groupId>
 			<artifactId>mule-http-connector</artifactId>
 			<classifier>mule-plugin</classifier>
-			<!-- <version>1.7.3</version> -->
+			 <version>1.7.3</version> 
 		</dependency>
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
